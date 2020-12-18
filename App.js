@@ -15,7 +15,7 @@ import ContactForm from ".src/pages/contact-form/contact-form.component";
 import { Parallax } from "react-parallax";
 import FooterPanel from ".src/components/footer/footer.component";
 
-import "./App.css";
+import ".src/App.css";
 
 const App = () => {
   return (
